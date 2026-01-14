@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Suhas
 
-<!--
-**Suhas-Mudam/Suhas-Mudam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer with experience in building cloud-native applications, 
+ETL pipelines using AWS Services.
 
-Here are some ideas to get you started:
+🔹 Skills:
+- Python, FastAPI, Flask, Pandas, PySpark
+- AWS (Lambda, S3, RDS, API Gateway, SNS, ...)
+- Docker, Terraform
+- SQL (PostgreSQL, Redshift)
+- FastAPI microservices
+- Serverless architectures on AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Currently learning:
+- Advanced FastAPI
+- Async Python
+- Infrastructure automation
+- AI
